@@ -44,7 +44,7 @@ This project is an admin and agent panel built with Next.js, MongoDB, and JWT au
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone  https://github.com/KaranBhosale8585/Assignment/tree/main
 cd <your-repo-folder>
 npm install
 
